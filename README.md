@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @christian759
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: reddit, whatsapp
 - 😄 Pronouns: he
 - ⚡ Fun fact: coding is fun
