@@ -71,7 +71,7 @@ I approach Web3 engineering with a product mindset: understanding protocol desig
 ---
 
 ## Education
--- Computer Engineering (B.Eng) Student, Unilorin (2024-Present)
+- Computer Engineering (B.Eng) Student, Unilorin (2024-Present)
 
 ## 📫 Contact
 - [GitHub](https://github.com/christian759)  
