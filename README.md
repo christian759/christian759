@@ -1,44 +1,79 @@
-# Hi, I’m Christian Onosediafo 👋
-**AI Engineer | Backend AI Developer | OCI AI Certified**
+# Hi, I’m Christian 👋  
+### Full Stack Developer | Web Developer | Blockchain & Web3 Developer | Smart Contracts | dApps | DeFi & Infrastructure
 
-Welcome to my GitHub! I’m passionate about building intelligent systems, leveraging AI to solve real-world problems, and developing scalable AI-powered backend solutions.
+I am a Blockchain and Web3 developer with a strong focus on designing, building, and testing decentralized systems. My work spans smart contract development, on-chain integrations, and backend infrastructure that supports real-world Web3 applications.
 
----
-
-## 🔹 About Me
-- Experienced AI Engineer with hands-on expertise in **Large Language Models (LLMs), Generative AI, and backend AI systems**.
-- OCI AI Certified, with strong knowledge in **Cloud AI, Generative AI workflows, and AI infrastructure**.
-- Skilled in **Python, PyTorch, TensorFlow, Hugging Face, FastAPI, Pandas, NumPy, Scikit-learn**, and modern AI/ML pipelines.
-- Experienced in **data preprocessing, vector databases (FAISS, Milvus, Pinecone), RAG system development, and LLM fine-tuning**.
-- Enthusiast in building **production-ready AI solutions**, optimizing workflows, and experimenting with cutting-edge AI technologies.
+I approach Web3 engineering with a product mindset: understanding protocol design, security considerations, and how decentralized systems behave in production—not just how to write contracts.
 
 ---
 
-## 🔹 Skills & Technologies
-- **Programming Languages:** Python, Bash, SQL  
-- **AI/ML Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers  
-- **Data Handling:** Pandas, NumPy, Scikit-learn, spaCy  
-- **Databases & Tools:** FAISS, Neo4j, PostgreSQL  
-- **Backend & Cloud:** FastAPI, REST APIs, OCI, Docker, Kubernetes, Serverless  
-- **Others:** OCI AI Certified, CI/CD, Agile/Scrum, Git
+## 🧠 Core Expertise
+- Smart contract development with a focus on correctness and security  
+- Designing and integrating decentralized applications (dApps)  
+- Interfacing on-chain logic with off-chain services  
+- Understanding DeFi primitives, token economics, and protocol architecture  
+- Writing clean, testable, and maintainable blockchain code  
 
 ---
 
-## 🔹 Projects
-Here are a few highlights of my work:
+## ⚙️ Tech Stack
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| Query IQ | Advanced RAG (Retrieval-Augmented Generation) application | Streamlit, Pytorch, HuggingFace | [https://github.com/christian759/QueryIQ] |
-| Smart Chain | Java LangChain Project | Java, LangChain, OCI | [https://github.com/christian759/smartchain] |
-| Detection | Object Detection Web App | Streamlit, YOLO | [https://objects-detection.streamlit.app/] |
+### Blockchain & Web3
+- Solidity  
+- Ethereum & EVM-compatible chains  
+- Hardhat / Foundry  
+- ethers.js / viem  
+- OpenZeppelin Contracts  
 
-
-## 🔹 Contact Me
-- Email: christian4onos@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/christian-eighemhenrio-540300319/]  
+### Backend & Engineering Tools
+- JavaScript / TypeScript  
+- Node.js
+- Golang
+- REST & Web3 APIs  
+- Git, GitHub, and collaborative workflows  
+- Basic CI/CD and deployment practices  
 
 ---
 
-## 🔹 Fun Fact
-When I’m not coding AI solutions, I enjoy exploring cybersecurity, backend system optimizations, and experimenting with new AI tools.
+## 🔍 Current Focus
+- Building secure and well-tested smart contracts  
+- Deepening expertise in DeFi protocols and on-chain architecture  
+- Exploring Layer 2 ecosystems (scaling, tooling, interoperability)  
+- Improving contract testing, auditing patterns, and gas optimization  
+- Actively learning through hands-on experimentation and research  
+
+---
+
+## 🧭 Engineering Mindset
+- Prioritize correctness before complexity  
+- Favor simple, auditable designs over clever abstractions  
+- Treat security and testing as first-class concerns  
+- Ship incrementally and improve continuously  
+- Learn fast as protocols, tooling, and standards evolve  
+
+---
+
+## 🌍 Web3 Interests
+- DeFi infrastructure and protocol engineering  
+- Smart contract security and testing methodologies  
+- On-chain data indexing and analytics  
+- Developer tooling and protocol SDKs  
+- Scaling solutions and cross-chain systems  
+
+---
+
+## 🤝 Open To
+- Blockchain & Web3 developer roles  
+- Protocol engineering and infrastructure work  
+- Open-source collaboration  
+- Freelance and contract-based Web3 opportunities  
+
+---
+
+## Education
+-- Computer Engineering (B.Eng) Student, Unilorin (2024-Present)
+
+## 📫 Contact
+- (GitHub)[https://github.com/christian759]  
+- (Twitter/X)[https://x.com/chris_blockdev]
+- (Instagram)[https://instagram.com/chris_blockdev]
