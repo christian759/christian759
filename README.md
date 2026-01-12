@@ -86,7 +86,8 @@ I am continuously expanding my expertise in:
 
 ## Professional Presence
 - **LinkedIn:** [https://www.linkedin.com/in/christian-eighemhenrio-1b77b63a2/?]  
-- **GitHub:** [https://github.com/christian759/]   
+- **GitHub:** [https://github.com/christian759/]
+- **Twitter:** [https://x.com/chris_codezz]
 
 ---
 
