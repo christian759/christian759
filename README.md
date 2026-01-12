@@ -1,99 +1,79 @@
-# Eighemhenrio Christian
+# 👋 Hi, I’m Christian
 
-## About Me
-I am a professional **Data Engineer** specializing in designing, building, and operating end-to-end data systems. My work transforms raw, fragmented data into **clean, reliable, and analytics-ready datasets** that power decision-making, business intelligence, and AI initiatives.  
+## Blockchain Engineer
 
-I approach data engineering as a **systems discipline**, combining architectural rigor, scalable design, and operational excellence. My pipelines prioritize **data quality, observability, and reproducibility**, ensuring downstream teams can trust and leverage the data with confidence.
+I’m a **Blockchain Engineer** focused on building **decentralized systems, smart contracts, and Web3 applications** with production-grade standards. My work spans **on-chain logic, Web3 infrastructure, and user-facing dApp interfaces**, with a strong emphasis on correctness, security, and scalability.
 
-I thrive in building **cloud-native, scalable, and maintainable data architectures** that balance performance, cost efficiency, and long-term reliability. My work spans **batch and streaming pipelines, orchestration, analytics modeling, and distributed processing**.
-
----
-
-## Core Competencies
-
-### Programming & Scripting
-- **Python** – Data pipeline logic, automation, transformations, and API integration  
-- **SQL** – Complex analytical queries, performance optimization, and data modeling  
-- **Bash / Shell Scripting** – Orchestration, automation, and server-side operations
-- **Others include** -  Golang and Java
-
-### Data Engineering & Transformation
-- **ETL / ELT Pipelines** – Batch, micro-batch, and streaming workflows  
-- **Data Modeling** – Star schema, snowflake schema, normalized and denormalized designs  
-- **Distributed Data Processing** – Parallelized computation for large-scale datasets  
-- **Data Quality & Validation** – Monitoring, testing, and ensuring accurate datasets  
-
-### Orchestration & Analytics Engineering
-- **Apache Airflow** – Workflow orchestration, scheduling, monitoring, and alerting  
-- **dbt (Data Build Tool)** – Transformation, testing, version control, and documentation  
-- **Task Scheduling & Automation** – Reliable execution of recurring and complex workflows  
-
-### Databases & Data Platforms
-- **Relational Databases** – PostgreSQL, MySQL, and transactional systems  
-- **Cloud Data Warehouses** – BigQuery, Redshift, Snowflake  
-- **Data Lakes & Object Storage** – S3, GCS, and raw-zone architectures  
-
-### Streaming & Messaging Systems
-- **Apache Kafka** – Event streaming, producers/consumers, stream processing foundations  
-- **Message Queues** – Reliable, asynchronous event-driven pipelines  
-
-### Cloud Infrastructure & DevOps
-- **AWS** – S3, EC2, IAM, Lambda, cloud-native data architecture  
-- **Docker & Containers** – Reproducible, isolated, and portable pipeline environments  
-- **Git & CI/CD** – Version control, automated testing, and deployment workflows
-- **Oracle** - Oracle Database, Oracle Data Lake, Object Storage
+I build for real users, real protocols, and real constraints.
 
 ---
 
-## Engineering Philosophy
+## 🧠 Technical Expertise
 
-I design data systems with **reliability, observability, and scalability** as top priorities:
+### Blockchain & Web3
+- **Smart Contracts:** Solidity
+- **EVM Ecosystem:** Ethereum, EVM-compatible chains
+- **Libraries & Tooling:** ethers.js, viem, Hardhat
+- **Concepts:**
+  - Contract architecture & interfaces
+  - Events, logs, and indexing
+  - Transaction lifecycle & gas mechanics
+  - Permissions, approvals, and security fundamentals
+  - Wallets, RPCs, and providers
 
-- **Data Quality & Consistency** – Implement validation checks and automated monitoring  
-- **Reproducible Pipelines** – Version-controlled transformations and documented workflows  
-- **Scalable Architectures** – From small datasets to distributed, multi-terabyte systems  
-- **Cost-Aware Engineering** – Optimize cloud resources without sacrificing performance  
-- **Documentation & Transparency** – Clear schemas, lineage, and team-friendly pipelines  
+### Frontend for Web3
+- **Languages:** TypeScript, JavaScript (ES6+)
+- **Frameworks:** React, Next.js
+- **Styling:** Tailwind CSS
+- **Web3 UX:** wallet connections, transaction states, error handling
 
-I focus on **building production-ready pipelines**, not experiments, ensuring business teams can trust the data they consume.  
+### Backend & Systems (Growing Depth)
+- API-driven architectures
+- Blockchain data consumption
+- Distributed system awareness
+- Preparing for protocol and infrastructure-level work
 
----
-
-## Tools, Frameworks, and Platforms
-
-| Category                   | Tools & Technologies                                      |
-|----------------------------|-----------------------------------------------------------|
-| Programming & Scripting    | Python, SQL, Bash, Golang                                 |
-| Orchestration              | Apache Airflow, Cron, dbt                                 |
-| Data Storage               | PostgreSQL, MySQL, BigQuery, Redshift, Snowflake, S3      |
-| Distributed Processing     | Apache Spark, Dask                                        |
-| Streaming & Messaging      | Apache Kafka, RabbitMQ                                    |
-| Cloud & Infrastructure     | Docker, CI/CD pipelines, Oracle Cloud Infrastructure      |
-| Analytics & BI             | Looker, Tableau, Power BI (basic integration)             |
-
----
-
-## Areas of Active Exploration
-I am continuously expanding my expertise in:
-
-- **Large-Scale Distributed Systems** – Scaling pipelines for massive datasets  
-- **Real-Time & Streaming Architectures** – Low-latency analytics and event-driven pipelines  
-- **Data Platform Architecture & Governance** – Building robust, secure, and compliant systems  
-- **Observability & Monitoring** – Implementing metrics, logging, and alerting for data reliability  
-- **Advanced Data Engineering Practices** – Reusable libraries, modular pipeline design, and code-first data models  
+### Tooling & Workflow
+- Git & GitHub
+- npm / pnpm
+- Environment-based configuration
+- Clean project structure and documentation
+- CI-friendly development practices
 
 ---
 
-## Professional Presence
-- **LinkedIn:** [https://www.linkedin.com/in/christian-eighemhenrio-1b77b63a2/?]  
-- **GitHub:** [https://github.com/christian759/]
-- **Twitter:** [https://x.com/chris_codezz]
+## 🚀 What I Build
+- Smart contracts and EVM-based systems
+- Full-stack dApps (on-chain + frontend)
+- Wallet-connected applications
+- Blockchain dashboards and explorers
+- Developer-focused Web3 tools
+
+I value **clarity, security, and maintainability** over hype-driven code.
 
 ---
 
-I am a data engineer who **thinks like a systems architect**. My work ensures that **data is not just collected**, but curated, reliable, and actionable. I bridge the gap between raw data and strategic business insights by designing pipelines that are **scalable, maintainable, and production-ready**.  
-
-I aim to contribute to teams where **data drives decisions**, pipelines are treated as code, and **quality and reliability are non-negotiable**.  
+## 🧩 Engineering Principles
+- Protocols before products
+- Security is not optional
+- UX matters—even in decentralized systems
+- Fewer abstractions, stronger foundations
+- Ship, measure, iterate
 
 ---
 
+## 📌 Current Direction
+- Deepening Solidity and EVM expertise
+- Building end-to-end blockchain projects
+- Expanding toward blockchain infrastructure and protocol engineering
+- Long-term focus on high-leverage Web3 systems
+
+---
+
+## 📫 Open To
+- Blockchain engineering roles
+- Web3 protocol teams
+- Open-source blockchain contributions
+- Serious technical collaboration
+
+> Building decentralized systems with intent, discipline, and engineering rigor.
