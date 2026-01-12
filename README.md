@@ -1,4 +1,4 @@
-# Data Engineer
+# Eighemhenrio Christian
 
 ## About Me
 I am a professional **Data Engineer** specializing in designing, building, and operating end-to-end data systems. My work transforms raw, fragmented data into **clean, reliable, and analytics-ready datasets** that power decision-making, business intelligence, and AI initiatives.  
