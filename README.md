@@ -14,7 +14,8 @@ I thrive in building **cloud-native, scalable, and maintainable data architectur
 ### Programming & Scripting
 - **Python** – Data pipeline logic, automation, transformations, and API integration  
 - **SQL** – Complex analytical queries, performance optimization, and data modeling  
-- **Bash / Shell Scripting** – Orchestration, automation, and server-side operations  
+- **Bash / Shell Scripting** – Orchestration, automation, and server-side operations
+- **Others include** -  Golang and Java
 
 ### Data Engineering & Transformation
 - **ETL / ELT Pipelines** – Batch, micro-batch, and streaming workflows  
@@ -39,7 +40,8 @@ I thrive in building **cloud-native, scalable, and maintainable data architectur
 ### Cloud Infrastructure & DevOps
 - **AWS** – S3, EC2, IAM, Lambda, cloud-native data architecture  
 - **Docker & Containers** – Reproducible, isolated, and portable pipeline environments  
-- **Git & CI/CD** – Version control, automated testing, and deployment workflows  
+- **Git & CI/CD** – Version control, automated testing, and deployment workflows
+- **Oracle** - Oracle Database, Oracle Data Lake, Object Storage
 
 ---
 
@@ -66,7 +68,7 @@ I focus on **building production-ready pipelines**, not experiments, ensuring bu
 | Data Storage               | PostgreSQL, MySQL, BigQuery, Redshift, Snowflake, S3      |
 | Distributed Processing     | Apache Spark, Dask                                        |
 | Streaming & Messaging      | Apache Kafka, RabbitMQ                                    |
-| Cloud & Infrastructure     | AWS (S3, EC2, Lambda, IAM), Docker, CI/CD pipelines       |
+| Cloud & Infrastructure     | Docker, CI/CD pipelines, Oracle Cloud Infrastructure      |
 | Analytics & BI             | Looker, Tableau, Power BI (basic integration)             |
 
 ---
@@ -83,8 +85,8 @@ I am continuously expanding my expertise in:
 ---
 
 ## Professional Presence
-- **LinkedIn:** [Your LinkedIn URL]  
-- **GitHub:** [Your GitHub URL]   
+- **LinkedIn:** [https://www.linkedin.com/in/christian-eighemhenrio-1b77b63a2/?]  
+- **GitHub:** [https://github.com/christian759/]   
 
 ---
 
