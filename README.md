@@ -63,7 +63,7 @@ I focus on **building production-ready pipelines**, not experiments, ensuring bu
 
 | Category                   | Tools & Technologies                                      |
 |----------------------------|-----------------------------------------------------------|
-| Programming & Scripting    | Python, SQL, Bash                                         |
+| Programming & Scripting    | Python, SQL, Bash, Golang                                 |
 | Orchestration              | Apache Airflow, Cron, dbt                                 |
 | Data Storage               | PostgreSQL, MySQL, BigQuery, Redshift, Snowflake, S3      |
 | Distributed Processing     | Apache Spark, Dask                                        |
