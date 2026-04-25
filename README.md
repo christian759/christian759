@@ -74,6 +74,11 @@ Infrastructure          → Docker • Redis • Cloud (OCI)
 
 **API Authentication, Rate Limiting, and Abuse Prevention (Python Library)**
 
+```bash
+pip install keyguard-python
+
+```
+
 Production-grade API protection without infrastructure overhead.
 
 **Features**
