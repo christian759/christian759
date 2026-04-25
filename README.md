@@ -167,8 +167,8 @@ A deterministic, backend-native recommendation engine for real-time environments
 
 <p>
 <img src="https://img.shields.io/badge/Developer-Professional-F80000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative_AI-Professional-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Science-Professional-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-Professional-F80000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Science-Professional-F80000?style=flat-square"/>
 </p>
 
 * 🎓 **Certified Developer Professional**
