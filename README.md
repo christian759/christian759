@@ -63,7 +63,7 @@ Infrastructure          → Docker • Redis • Cloud (OCI)
 
 ## 🚀 Projects
 
-### 🔐 KeyGuard
+###  [KeyGuard](https://github.com/The-honoured1/keyguard)
 
 <p>
 <img src="https://img.shields.io/badge/API_Security-Auth-blue"/>
@@ -99,7 +99,7 @@ Production-grade API protection without infrastructure overhead.
 
 ---
 
-### 📄 DocuFlow
+### [DocuFlow](https://github.com/The-honoured1/docuflow)
 
 <p>
 <img src="https://img.shields.io/badge/Go-Backend-00ADD8"/>
@@ -125,7 +125,7 @@ Backend-driven documentation system focused on speed and clarity.
 
 ---
 
-### 🌊 RecFlow
+### [RecFlow](https://github.com/The-honoured1/recflow)
 
 <p>
 <img src="https://img.shields.io/badge/Recommendation-Engine-blueviolet"/>
@@ -159,6 +159,22 @@ A deterministic, backend-native recommendation engine for real-time environments
 * Metadata-based ranking
 * Custom rule engine
 
+---
+### [Gostream](https://github.com/The-honoured1/gostream)
+
+High-Performance Media Streaming Engine (Go)
+
+A production-grade, low-latency, high-concurrency media delivery framework for Go.
+
+Gostream is built for systems that require reliable media delivery under heavy load, where traditional HTTP file servers fail under concurrency pressure.
+
+Core Capabilities
+- Adaptive Bitrate Streaming (HLS)
+- Automatic media segmentation
+- Smooth playback across unstable networks
+- Optimized for continuous streaming workloads
+- Backpressure & Load Protection
+- Easily extensible for audio, video, or binary streams
 ---
 
 ## 🎓 Certifications
