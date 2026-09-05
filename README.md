@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Backend Engineer |  GO Engineer</h1>
+<h1 align="center">⚙️ Backend Engineer | Python Developer </h1>
 <p align="center">
 <b>API Infrastructure • Distributed Systems • Cloud-Native Systems</b>
 </p>
